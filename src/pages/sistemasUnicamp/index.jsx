@@ -11,9 +11,10 @@ const SistemasUnicamp = () => {
         </div>
       </div>
       <div className="conteudo">
-        <SystemCard title="SIGA" description="Descrição" link="link.com" />
-        <SystemCard title="E-DAC" description="Descrição" link="https://sistemas.dac.unicamp.br/siga/mobile/signin" />
-        <SystemCard title="GDE" description="Descrição" link="https://grade.daconline.unicamp.br/arvore/" />
+        <SystemCard title="SIGA" description="O SIGA (Sistema Integrado de Gestão Acadêmica) é a principal ferramenta de gestão acadêmica da universidade, permitindo o acesso a informações sobre matrículas, horários de matrículas" link="link.com" />
+        <SystemCard title="E-DAC" description="O sistema E-DAC da UNICAMP é uma plataforma acadêmica central que permite aos estudantes acessar informações sobre cursos, matrículas, históricos acadêmicos e outros serviços relacionados à vida universitária." link="https://sistemas.dac.unicamp.br/siga/mobile/signin" />
+        <SystemCard title="SAE" description="O SAE (Sistema de Apoio ao Estudante) é uma ferramenta essencial que oferece suporte aos alunos da UNICAMP, fornece informações sobre bolsas, assistência estudantil, orientação acadêmica e recursos para promover o bem-estar estudantil." link="https://www.sae.unicamp.br/portal/pt/" />
+        <SystemCard title="GDE" description="O GDE (Gestão de Documentos Eletrônicos) é uma iniciativa não oficial, mas altamente útil, que auxilia os alunos na organização e gerenciamento de documentos acadêmicos, como provas, trabalhos e anotações, simplificando assim suas vidas acadêmicas." link="https://grade.daconline.unicamp.br/arvore/" />
       </div>
     </>
   );

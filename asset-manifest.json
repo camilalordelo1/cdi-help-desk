@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.be0faf3b.css",
-    "main.js": "/static/js/main.cbd0bbea.js",
-    "static/media/logo.jpg": "/static/media/logo.82e625f1db638e07423b.jpg",
-    "index.html": "/index.html",
-    "main.be0faf3b.css.map": "/static/css/main.be0faf3b.css.map",
-    "main.cbd0bbea.js.map": "/static/js/main.cbd0bbea.js.map"
+    "main.css": "/cdi-help-desk/static/css/main.be0faf3b.css",
+    "main.js": "/cdi-help-desk/static/js/main.55c45f81.js",
+    "static/media/logo.jpg": "/cdi-help-desk/static/media/logo.82e625f1db638e07423b.jpg",
+    "index.html": "/cdi-help-desk/index.html",
+    "main.be0faf3b.css.map": "/cdi-help-desk/static/css/main.be0faf3b.css.map",
+    "main.55c45f81.js.map": "/cdi-help-desk/static/js/main.55c45f81.js.map"
   },
   "entrypoints": [
     "static/css/main.be0faf3b.css",
-    "static/js/main.cbd0bbea.js"
+    "static/js/main.55c45f81.js"
   ]
 }

@@ -1,0 +1,28 @@
+$card-border-color: #ddd;
+$card-bg-color: #fff;
+$card-shadow-color: rgba(0, 0, 0, 0.1);
+$title-color: #333;
+$description-color: #666;
+
+
+.card {
+  border: 1px solid $card-border-color;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px $card-shadow-color;
+  padding: 2rem 3rem;
+  flex: 1;
+  text-align: center;
+  background-color: $card-bg-color;
+
+  .title {
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 2rem;
+    color: $title-color;
+  }
+
+  .description {
+    font-size: 16px;
+    color: $description-color;
+  }
+}

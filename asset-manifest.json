@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cdi-help-desk/static/css/main.be0faf3b.css",
+    "main.css": "/cdi-help-desk/static/css/main.4e0d66e1.css",
     "main.js": "/cdi-help-desk/static/js/main.55c45f81.js",
     "static/media/logo.jpg": "/cdi-help-desk/static/media/logo.82e625f1db638e07423b.jpg",
     "index.html": "/cdi-help-desk/index.html",
-    "main.be0faf3b.css.map": "/cdi-help-desk/static/css/main.be0faf3b.css.map",
+    "main.4e0d66e1.css.map": "/cdi-help-desk/static/css/main.4e0d66e1.css.map",
     "main.55c45f81.js.map": "/cdi-help-desk/static/js/main.55c45f81.js.map"
   },
   "entrypoints": [
-    "static/css/main.be0faf3b.css",
+    "static/css/main.4e0d66e1.css",
     "static/js/main.55c45f81.js"
   ]
 }

@@ -1,0 +1,28 @@
+.titulo {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.conteudo {
+    background-color: white;
+    padding: 3rem 6rem;
+
+    .cursos {
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+
+        .curso {
+            color: white !important;
+            width: 100%;
+            text-align: center;
+            padding: 6rem 1rem;
+            background-color: black;
+            border-radius: 10px;
+        }
+    }
+
+    p {
+        color: black;
+    }
+}

@@ -2,7 +2,7 @@ import React from "react";
 
 const Iniciacoes = () => {
   return (
-    <div className="">
+    <div className="container">
         <p>Iniciações</p>
     </div>
   );

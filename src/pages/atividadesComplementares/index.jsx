@@ -2,7 +2,7 @@ import React from "react";
 
 const AtividadesComplementares = () => {
   return (
-    <div className="">
+    <div className="container">
         <p>AtividadesComplementares</p>
     </div>
   );

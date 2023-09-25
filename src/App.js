@@ -5,7 +5,7 @@ import './App.scss'
 
 import Home from "./pages/home/index";
 import SistemasUnicamp from "./pages/sistemasUnicamp/index";
-import DuploDiploma from "./pages/sistemasUnicamp/index";
+import DuploDiploma from "./pages/duploDiploma/index";
 import AtividadesComplementares from "./pages/atividadesComplementares/index";
 import Iniciacoes from "./pages/iniciacoes/index";
 import Navbar from "./components/navbar/Navbar";

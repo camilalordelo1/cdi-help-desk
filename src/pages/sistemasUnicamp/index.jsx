@@ -2,8 +2,8 @@ import React from "react";
 
 const SistemasUnicamp = () => {
   return (
-    <div className="">
-        <p>SistemasUnicamp</p>
+    <div className="container">
+        <p>Sistemas Unicamp</p>
     </div>
   );
 };

@@ -12,7 +12,7 @@ const Iniciacoes = () => {
           <h1>Iniciações? </h1>
         </div>
       </div>
-      <div className="conteudo">
+      <div className="iniciacoes">
         <InitiationCard
           title="PIBIC"
           description="O PIBIC da Unicamp tem como objetivo proporcionar aos alunos de graduação a oportunidade de aprender o método científico e técnicas em sua área de atuação, através do desenvolvimento de projetos de pesquisa orientados por docentes pesquisadores, concedendo bolsas de R$ 700,00 por mês por até 12 meses. Os projetos de Iniciação Científica podem envolver pesquisa básica ou aplicada, visando a produção de conhecimento, com ou sem um objetivo prático específico."

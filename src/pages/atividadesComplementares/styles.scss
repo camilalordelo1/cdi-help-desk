@@ -4,3 +4,32 @@
 .container {
   padding: 3rem 6rem;
 }
+
+.titulo {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  p {
+      text-align: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .titulo {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    p {
+        text-align: center;
+        font-size: 1rem;
+    }
+
+    h1 {
+      font-size: 2rem;
+    }
+  }
+}

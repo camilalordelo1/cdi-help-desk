@@ -1,3 +1,7 @@
+.container {
+    padding: 3rem 6rem;
+}
+
 .titulo {
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -15,5 +19,25 @@
 
     p {
         color: black;
+    }
+}
+
+@media (max-width: 600px) {
+    .titulo {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        p {
+            text-align: center;
+            font-size: 1rem;
+        }
+    
+        h1 {
+          font-size: 2rem;
+        }
+      }
+    .iniciacoes {
+        display: flex;
+        flex-direction: column;
+        padding: 2rem;
     }
 }

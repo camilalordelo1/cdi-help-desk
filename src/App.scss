@@ -81,3 +81,9 @@ body {
     min-height: 100vh;
     flex-direction: column;
 }
+
+@media (max-width: 600px) {
+    body {
+        background: linear-gradient(90deg, #044bce, #980bc4); 
+    }
+}

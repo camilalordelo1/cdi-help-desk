@@ -16,7 +16,7 @@ const App = () => {
           <Navbar />
           <Routes>
             <Route exact path="/" element={<Home />} />
-            <Route path="/cdi-help-desk/" element={<Home />} />
+            <Route path="/cdi-help-desk" element={<Home />} />
             <Route path="/sistemas-unicamp" element={<SistemasUnicamp />} />
             <Route path="/duplo-diploma" element={<DuploDiploma />} />
             <Route path="/atividades-complementares" element={<AtividadesComplementares />} />

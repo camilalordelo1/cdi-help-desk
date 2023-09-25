@@ -1,0 +1,21 @@
+/* styles.css */
+.system-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .system-card h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: black;
+    font-weight: 800;
+
+  }
+  
+  .system-card a {
+    color: #007bff;
+    text-decoration: none;
+  }
